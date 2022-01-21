@@ -1,6 +1,6 @@
 # Code
 
-Code by Devstackr: https://www.youtube.com/watch?v=gvWxMQ_Zios
+Code by Devstackr : https://www.youtube.com/watch?v=gvWxMQ_Zios
 
 # AngularTodoApp
 
